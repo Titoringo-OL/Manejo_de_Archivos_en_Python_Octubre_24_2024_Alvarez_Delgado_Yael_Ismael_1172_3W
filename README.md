@@ -1,0 +1,2 @@
+# Manejo_de_Archivos_en_Python_Octubre_24_2024_Alvarez_Delgado_Yael_Ismael_1172_3W
+Manejo de Archivos en Python Octubre 24 2024
